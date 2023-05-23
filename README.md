@@ -19,6 +19,10 @@ HTML ve CSS kullanıldı.
 ![](bslanding.mp4)
 
 
+https://github.com/EyupSaltukB/landing-page-bs/assets/129687853/99027406-95c9-488e-925b-e9e510331a2e
+
+
+
 
 
 <h4> GIF </h4>
