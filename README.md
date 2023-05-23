@@ -28,3 +28,4 @@ https://github.com/EyupSaltukB/landing-page-bs/assets/129687853/99027406-95c9-48
 <h4> GIF </h4>
 
 ![](pagegif.gif)
+![pagegif](https://github.com/EyupSaltukB/landing-page-bs/assets/129687853/7584d4b0-1092-4d75-a879-693021ca9be0)
