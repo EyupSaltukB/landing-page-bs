@@ -1,0 +1,16 @@
+/*ilk açıklama alanı 700px aşağıya kaydırıyor*/
+
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+.circle-img{
+    width: 100%;
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
