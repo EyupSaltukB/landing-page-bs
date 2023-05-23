@@ -1,6 +1,7 @@
 <h1>Landing Page w/ Bootstrap</h1>
 
 Bootstrap ile geliştirdiğim ilk projedir.
+Bu proje statik yapıdadır.
 
 <h2> Kullanılan Teknolojiler</h2>
 
